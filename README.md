@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arcangelo-frigiola-332141213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge">Arcangelo Frigiola</a></div>
+<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arcangelo-frigiola-332141213" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge">Arcangelo Frigiola</a>
+</div>
               
