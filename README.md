@@ -6,16 +6,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 📚 I’m currently studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="5" height="5"/>&
+</div> How to reach me: [LinkedIn profile](https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge)
 
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arcangelo-frigiola-332141213" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge">Arcangelo Frigiola</a>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
               
