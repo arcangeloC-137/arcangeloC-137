@@ -9,7 +9,7 @@
 - 📫 How to reach me: [arcangelofrigioladseng@gmail.com](arcangelofrigioladseng@gmail.com)
 - <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
-  <a href="www.linkedin.com/in/arcangelo-frigiola"> LinkedIn profile</a>
+  <a href="www.linkedin.com/in/arcangelo-frigiola">LinkedIn profile</a>
 </div> 
 
 ---
