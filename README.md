@@ -11,7 +11,12 @@
 - <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
   <a href="www.linkedin.com/in/arcangelo-frigiola">LinkedIn profile</a>
+  <br>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arcangelo-frigiola-332141213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge">Arcangelo Frigiola</a></div>
+              
 </div> 
+
 
 ---
 
