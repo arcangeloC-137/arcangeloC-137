@@ -5,7 +5,8 @@
 **About me:**
 
 - 📚 Currently studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
-- 👨🏻‍💻 Currently working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en)
+- 👨🏻‍💻 Currently working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en).
+- 🎓 Management Engineer for Information Systems.
 - 📫 How to reach me: [arcangelofrigioladseng@gmail.com](arcangelofrigioladseng@gmail.com)
 - <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
@@ -18,12 +19,12 @@
 
 <div>
   <b>Languages</b>
-  <p>
+  <p><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="50" height="50"/>
   </p>
   <b>Libraries</b>
-  <p>
+  <p><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
@@ -33,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
   </p>
   <b>Other</b>
-  <p>
+  <p><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>&nbsp;
