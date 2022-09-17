@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="15" height="15"/>
-  <href src="www.linkedin.com/in/arcangelo-frigiola">LinkedIn profile </href>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
+  <a href="www.linkedin.com/in/arcangelo-frigiola">LinkedIn profile</a>
 </div> 
 
 <div>
