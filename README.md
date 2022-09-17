@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="5" height="5"/>&
-</div> How to reach me: [LinkedIn profile](https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="15" height="15"/>&
+</div> How to reach me: [LinkedIn profile](www.linkedin.com/in/arcangelo-frigiola)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
