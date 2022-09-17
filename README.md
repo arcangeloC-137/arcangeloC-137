@@ -4,8 +4,6 @@
 
 **About me:**
 
-Here are some ideas to get you started:
-
 - 📚 Currently studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
 - 👨🏻‍💻 Currently working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en)
 - 📫 How to reach me: [arcangelofrigioladseng@gmail.com](arcangelofrigioladseng@gmail.com)
