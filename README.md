@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="1102"/>
+  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="740"/>
 </div>
-
 
 **arcangeloC-137/arcangeloC-137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arcangelo-frigiola-332141213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/arcangelo-frigiola-332141213?trk=profile-badge">Arcangelo Frigiola</a></div>
+              
