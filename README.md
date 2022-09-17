@@ -8,7 +8,7 @@
 - 👨🏻‍💻 Currently working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en)
 - 📫 How to reach me: [arcangelofrigioladseng@gmail.com](arcangelofrigioladseng@gmail.com)
 - <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" align="center" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
   <a href="www.linkedin.com/in/arcangelo-frigiola"> LinkedIn profile</a>
 </div> 
 
