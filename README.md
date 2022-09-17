@@ -7,8 +7,8 @@
 - 📚 Currently studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
 - 👨🏻‍💻 Currently working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en)
 - 📫 How to reach me: [arcangelofrigioladseng@gmail.com](arcangelofrigioladseng@gmail.com)
-- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" align="justify" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
+- <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="18" height="18"/>
   <a href="www.linkedin.com/in/arcangelo-frigiola"> LinkedIn profile</a>
 </div> 
 
