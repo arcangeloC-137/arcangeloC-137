@@ -4,8 +4,8 @@
 
 **About me:**
 
-- 📚 Currently studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
-- 👨🏻‍💻 Currently working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en).
+- 📚 Studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
+- 👨🏻‍💻 Working as **Junior Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en).
 - 🎓 Management Engineer for Information Systems.
 - 📫 How to reach me: [arcangelofrigioladseng@gmail.com](arcangelofrigioladseng@gmail.com)
 - <div align="left">
@@ -17,7 +17,7 @@
 
 ---
 
-**Some technologies I use:**
+##**Some technologies I use:**
 
 <div>
   <b><i>Languages</i></b>
