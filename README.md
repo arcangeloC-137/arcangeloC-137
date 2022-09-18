@@ -45,7 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" **alt="jupyter" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/Git/Git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="50" height="50"/>
    </p>
