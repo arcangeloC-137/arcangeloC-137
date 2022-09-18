@@ -39,7 +39,8 @@
   <p><br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="50" height="50"/>
-    <b><i>Others</i></b>
+  </p>
+  <p><b><i>Others</i></b>
   <p><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>&nbsp;
