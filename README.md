@@ -17,7 +17,7 @@
 
 ---
 
-##**Some technologies I use:**
+**Some technologies I use:**
 
 <div>
   <b><i>Languages</i></b>
