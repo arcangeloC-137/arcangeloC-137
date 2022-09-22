@@ -35,7 +35,8 @@
     <th><a href="https://github.com/arcangeloC-137/distributed_architectures_for_big_data" aligh="left"> Distributed Architectures for Big Data Process and Analytics</a></th>
   </tr>
 </table>
----
+
+<br>
 
 **Some technologies I use:**
 
