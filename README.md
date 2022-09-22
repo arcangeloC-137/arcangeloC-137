@@ -17,7 +17,8 @@
 
 
 <h2  align="center">Check Out My best projects:</h2>
-<div class="grid-container">
+<div class="grid-container" display:"grid"
+  grid-template-columns: "auto auto">
   <div class="grid-item">
     🌎 &nbsp; </div><div class="grid-item"><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition"> Deep Learning Techniques for Visual Place Recognition</a>
   </div><br>
