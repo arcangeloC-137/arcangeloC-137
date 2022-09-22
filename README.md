@@ -19,11 +19,9 @@
 <h2  align="center">Check Out My best projects:</h2>
 <div class="grid-container">
   <div class="grid-item">
-    🌎 &nbsp; </div>
-  <div class="grid-item"><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition"> Deep Learning Techniques for Visual Place Recognition</a>
+    🌎 &nbsp; </div><div class="grid-item"><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition"> Deep Learning Techniques for Visual Place Recognition</a>
   </div><br>
-  <div class="grid-item"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="18"/></div>
-  <div class="grid-item"><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis">Twitter Sentiment Analysis </a></div>
+  <div class="grid-item"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="18"/></div><div class="grid-item"><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis">Twitter Sentiment Analysis </a></div>
 </div>
 
 
