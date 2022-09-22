@@ -16,14 +16,14 @@
 
 
 <h2  align="center">Check Out My best projects:</h2><br>
-<table>
+<table width="100%>
   <tr>
     <th>🌎 &nbsp;</th>
     <th><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
   </tr>
   <tr>
     <th><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="18"/></th>
-    <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left" >Twitter Sentiment Analysis </a><</th>
+    <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis </a><</th>
   </tr>
 </table>
 
