@@ -18,7 +18,8 @@
 
 <h2  align="center">Check Out My best projects:</h2>
   🌎 &nbsp; <a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition"> Deep Learning Techniques for Visual Place Recognition</a><br>
-  <div><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="18" height="18"/><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis"> Twitter Sentiment Analysis </a></div><br>
+  <br>
+  <div><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="18" height="18"/><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis">    Twitter Sentiment Analysis </a></div><br>
 
 
 ---
