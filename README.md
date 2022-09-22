@@ -16,7 +16,7 @@
 
 
 <h2  align="center">Check Out My best projects:</h2><br>
-<table width="100%>
+<table width="100%">
   <tr>
     <th>🌎 &nbsp;</th>
     <th><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
