@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <th><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="18"/></th>
-    <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis </a><</th>
+    <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis </a></th>
   </tr>
 </table>
 
