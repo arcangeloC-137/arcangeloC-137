@@ -1,7 +1,9 @@
 <div id="header" align="center">
 
   <!-- <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="740"/> -->
-  <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Arcangelo%20Frigiola.png" style="pointer-events: none;"/>
+  <a href="mailto:arcangelofrigioladseng@gmail.com">
+    <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Arcangelo%20Frigiola.png"/>
+  </a>
 </div>
 <br>
 
