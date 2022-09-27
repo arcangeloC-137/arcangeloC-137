@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="740"/>
+
+  <!-- <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="740"/> -->
+  <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Arcangelo%20Frigiola.png" width="740"/>
 </div>
 
 **About me:**
