@@ -3,8 +3,9 @@
   <!-- <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="740"/> -->
   <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Arcangelo%20Frigiola.png"/>
 </div>
+<br>
 
-**About me:**
+**Some information about me:**
 
 - 📚 Studying ***Data Science and Engineering*** at [Politecnico di Torino](https://www.polito.it/).
 - 👨🏻‍💻 Working as **Consultant** at [Techedge Group S.p.A.](https://www.techedgegroup.com/en).
