@@ -27,6 +27,10 @@
     <th><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="18"/></th>
     <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis </a></th>
   </tr>
+  <tr>
+    <th> &nbsp;🛠</th>
+    <th><a href="https://github.com/arcangeloC-137" aligh="left"> Work in Progress ... </a></th>
+  </tr>
 </table>
 
 
@@ -35,6 +39,10 @@
   <tr>
     <th> &nbsp;📘</th>
     <th><a href="https://github.com/arcangeloC-137/distributed_architectures_for_big_data" aligh="left"> Distributed Architectures for Big Data Process and Analytics</a></th>
+  </tr>
+  <tr>
+    <th> &nbsp;🛠</th>
+    <th><a href="https://github.com/arcangeloC-137" aligh="left"> Work in Progress ... </a></th>
   </tr>
 </table>
 
