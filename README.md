@@ -31,6 +31,10 @@
     <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis </a></th>
   </tr>
   <tr>
+    <th> &nbsp;💵</th>
+    <th><a href="https://github.com/arcangeloC-137/payment_exchange_platform" aligh="left"> Payment Exchange Platform </a></th>
+  </tr>
+  <tr>
     <th> &nbsp;🛠</th>
     <th><a href="https://github.com/arcangeloC-137" aligh="left"> Work in Progress ... </a></th>
   </tr>
