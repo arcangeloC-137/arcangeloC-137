@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td>Database Management Systems</td>
-      <td>
+      <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" **alt="oracle" width="50" height="50"/>
@@ -83,21 +83,21 @@
     </tr>
     <tr>
       <td>Machine Learning and Data Science</td>
-      <td>
+      <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
       </td>
     </tr>
     <tr>
       <td>Deep Learning</td>
-      <td>
+      <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" **alt="pytorch" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" **alt="opencv" width="50" height="50"/>
       </td>
     </tr>
     <tr>
       <td>Microservices Architectures</td>
-      <td>
+      <td align="center">
        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="50" height="50"/>
@@ -105,13 +105,13 @@
     </tr>
     <tr>
       <td>Cloud Computing</td>
-      <td>
+      <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" **alt="jupyter" width="50" height="50"/>
       </td>
     </tr>
     <tr>
       <td>Distributed Revision Control</td>
-      <td>
+      <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="50" height="50"/>
       </td>
