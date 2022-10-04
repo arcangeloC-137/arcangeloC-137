@@ -94,7 +94,7 @@
       <td>Machine Learning</td>
       <td align="center">
         <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/scikit.png" title="Scikit-Learn" **alt="Scikit-Learn" width="70" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/sphx_glr_logos2_003.webp" title="Matplotlib" **alt="Matplotlib" width="120" height="40"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/sphx_glr_logos2_003.webp" title="Matplotlib" **alt="Matplotlib" width="160" height="35"/>
       </td>
     </tr>
     <tr>
@@ -113,10 +113,10 @@
      </td>
     </tr>
     <tr>
-      <td>Cloud Computing</td>
+      <td>Cloud Computing Platforms</td>
       <td align="center">
         <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/colab.svg.png" title="Google Colab" **alt="Google Colab" width="80" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/deepnote.png" title="Deepnote" **alt="Deepnote" width="50" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/deepnote1.png" title="Deepnote" **alt="Deepnote" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
       </td>
     </tr>
@@ -125,6 +125,14 @@
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="50" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>IDEs</td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="50" height="50" border-spacing="30"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/pycharm.svg.png" title="pycharm" **alt="pycharm" width="50" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/eclipse.png" title="eclipse" **alt="eclipse" width="50" height="50"/>
       </td>
     </tr>
   </table>
