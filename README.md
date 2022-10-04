@@ -82,11 +82,19 @@
       </td>
     </tr>
     <tr>
-      <td>Machine Learning and Data Science</td>
+      <td>Data Science</td>
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/scikit.png" title="scikit" **alt="scikit" width="70" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/spark.png" title="Apache Spark" **alt="Apache Spark" width="80" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Apache_Solr-Logo.wine.png" title="Apache Solr" **alt="Apache Solr" width="80" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Machine Learning</td>
+      <td align="center">
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/scikit.png" title="Scikit-Learn" **alt="Scikit-Learn" width="70" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/sphx_glr_logos2_003.webp" title="Matplotlib" **alt="Matplotlib" width="120" height="40"/>
       </td>
     </tr>
     <tr>
@@ -107,7 +115,9 @@
     <tr>
       <td>Cloud Computing</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" **alt="jupyter" width="50" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/colab.svg.png" title="Google Colab" **alt="Google Colab" width="80" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/deepnote.png" title="Deepnote" **alt="Deepnote" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
       </td>
     </tr>
     <tr>
