@@ -86,6 +86,7 @@
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/scikit.png" title="scikit" **alt="scikit" width="70" height="50"/>
       </td>
     </tr>
     <tr>
