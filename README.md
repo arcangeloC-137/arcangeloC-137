@@ -110,6 +110,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="50" height="50"/>
+       <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/postman.png" title="Postman" **alt="Postman" width="50" height="50"/>
      </td>
     </tr>
     <tr>
