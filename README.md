@@ -61,7 +61,7 @@
 
 <div align="center"><h2>Table of Skills</h2></div>
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
       <th>Field</th>
       <th>Technology</th>
