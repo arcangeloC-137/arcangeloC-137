@@ -59,39 +59,62 @@
 
 <br>
 
-**Some technologies I use:**
-
-<div>
-  <b><i>Languages</i></b>
-  <p><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="50" height="50"/>
-  </p>
-  <b><i>Libraries</i></b>
-  <p><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" **alt="pytorch" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
-  </p>
-  <b><i>Databases</i></b>
-  <p><br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="50" height="50"/>
-  </p>
-  <p><b><i>Others</i></b>
-  <p><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" **alt="jupyter" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
-  &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="50" height="50"/>
-   </p>
-   </div>
-
-              
+<div align="center"><h2>Table of Skills</h2></div>
+<div align="center">
+  <table>
+    <tr>
+      <th>Field</th>
+      <th>Technology</th>
+    </tr>
+    <tr>
+      <td>Programming Languages</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="50" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Database Management Systems</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" **alt="oracle" width="50" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Machine Learning and Data Science</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Deep Learning</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" **alt="pytorch" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" **alt="opencv" width="50" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Microservices Architectures</td>
+      <td>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="50" height="50"/>
+     </td>
+    </tr>
+    <tr>
+      <td>Cloud Computing</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" **alt="jupyter" width="50" height="50"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Distributed Revision Control</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="50" height="50"/>
+      </td>
+    </tr>
+  </table>
+</div>
