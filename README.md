@@ -69,71 +69,71 @@
     <tr>
       <td>Programming Languages</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="35" height="35"/>
       </td>
     </tr>
     <tr>
       <td>Database Management Systems</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" **alt="oracle" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="35" height="35"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" **alt="oracle" width="35" height="35"/>
       </td>
     </tr>
     <tr>
       <td>Data Science</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="50" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/spark.png" title="Apache Spark" **alt="Apache Spark" width="80" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Apache_Solr-Logo.wine.png" title="Apache Solr" **alt="Apache Solr" width="80" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" **alt="numpy" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="35" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/spark.png" title="Apache Spark" **alt="Apache Spark" width="65" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/Apache_Solr-Logo.wine.png" title="Apache Solr" **alt="Apache Solr" width="65" height="35"/>
       </td>
     </tr>
     <tr>
       <td>Machine Learning</td>
       <td align="center">
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/scikit.png" title="Scikit-Learn" **alt="Scikit-Learn" width="70" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/sphx_glr_logos2_003.webp" title="Matplotlib" **alt="Matplotlib" width="160" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/scikit.png" title="Scikit-Learn" **alt="Scikit-Learn" width="55" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/sphx_glr_logos2_003.webp" title="Matplotlib" **alt="Matplotlib" width="145" height="25"/>
       </td>
     </tr>
     <tr>
       <td>Deep Learning</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" **alt="pytorch" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" **alt="opencv" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" **alt="pytorch" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" **alt="opencv" width="35" height="35"/>
       </td>
     </tr>
     <tr>
       <td>Microservices Architectures</td>
       <td align="center">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="50" height="50"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="50" height="50"/>
-       <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/postman.png" title="Postman" **alt="Postman" width="50" height="50"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="35" height="35"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="35" height="35"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="35" height="35"/>
+       <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/postman.png" title="Postman" **alt="Postman" width="35" height="35"/>
      </td>
     </tr>
     <tr>
       <td>Cloud Computing Platforms</td>
       <td align="center">
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/colab.svg.png" title="Google Colab" **alt="Google Colab" width="80" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/deepnote1.png" title="Deepnote" **alt="Deepnote" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/colab.svg.png" title="Google Colab" **alt="Google Colab" width="65" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/deepnote1.png" title="Deepnote" **alt="Deepnote" width="25" height="25"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="35" height="35"/>
       </td>
     </tr>
     <tr>
       <td>Distributed Revision Control</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" title="tortoisegit" **alt="tortoisegit" width="35" height="35"/>
       </td>
     </tr>
     <tr>
       <td>IDEs</td>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="50" height="50" border-spacing="30"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/pycharm.svg.png" title="pycharm" **alt="pycharm" width="50" height="50"/>
-        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/eclipse.png" title="eclipse" **alt="eclipse" width="50" height="50"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="35" height="35" border-spacing="30"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/pycharm.svg.png" title="pycharm" **alt="pycharm" width="35" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/eclipse.png" title="eclipse" **alt="eclipse" width="35" height="35"/>
       </td>
     </tr>
   </table>
