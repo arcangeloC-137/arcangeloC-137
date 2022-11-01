@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <th><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="20" height="18"/></th>
-    <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis </a></th>
+    <th><a href="https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis" aligh="left"> Twitter Sentiment Analysis</a></th>
   </tr>
   <tr>
     <th> &nbsp;💵</th>
@@ -43,6 +43,14 @@
 
 <h2  align="center">Academic Repositories:</h2><br>
 <table width="100%" align="center">
+  <tr>
+    <th> &nbsp;📗</th>
+    <th><a href="https://github.com/arcangeloC-137/machine_learning_for_iot" aligh="left"> Machine Learning for IoT</a></th>
+  </tr>
+  <tr>
+    <th> &nbsp;📙</th>
+    <th><a href="https://github.com/arcangeloC-137/deep_natural_language_processing" aligh="left"> Deep Natural Language Processing</a></th>
+  </tr>
   <tr>
     <th> &nbsp;📘</th>
     <th><a href="https://github.com/arcangeloC-137/distributed_architectures_for_big_data" aligh="left"> Distributed Architectures for Big Data Process and Analytics</a></th>
