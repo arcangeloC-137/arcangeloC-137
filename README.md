@@ -97,6 +97,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="35" height="35"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" **alt="oracle" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" title="redis" **alt="redis" width="35" height="35"  style="vertical-align:middle;margin:50px 50px"/>
       </td>
     </tr>
     <tr>
@@ -131,7 +132,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="35" height="35"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="35" height="35"/>
        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/postman.png" title="Postman" **alt="Postman" width="35" height="35"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="redhat" **alt="redhat" width="35" height="35"/>
+       <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/openshift.png" title="openshift" **alt="openshift" width="35" height="35"/>
      </td>
     </tr>
     <tr>
