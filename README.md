@@ -29,6 +29,10 @@
 <h2  align="center">Check Out My best projects:</h2><br>
 <table width="100%" align="center">
   <tr>
+    <th>🇺🇳 &nbsp;</th>
+    <th><a href="https://github.com/PoliTO-ADSP-United-Nations-Project" aligh="left">United Nations - Time-Series Forecasting for Humanitarian Aid</a></th>
+  </tr>
+  <tr>
     <th>🌎 &nbsp;</th>
     <th><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
   </tr>
@@ -116,6 +120,8 @@
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" **alt="pytorch" width="35" height="35"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" **alt="opencv" width="35" height="35"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" **alt="tensorflow" width="35" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/huggingface.png" title="huggingface" **alt="huggingface" width="35" height="35"/>
       </td>
     </tr>
     <tr>
@@ -125,6 +131,7 @@
        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="35" height="35"/>
        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" **alt="kubernetes" width="35" height="35"/>
        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/postman.png" title="Postman" **alt="Postman" width="35" height="35"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="redhat" **alt="redhat" width="35" height="35"/>
      </td>
     </tr>
     <tr>
@@ -148,6 +155,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="35" height="35" border-spacing="30"/>
         <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/pycharm.svg.png" title="pycharm" **alt="pycharm" width="35" height="35"/>
         <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/eclipse.png" title="eclipse" **alt="eclipse" width="35" height="35"/>
+        <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/intellij.png" title="intellij" **alt="intellij" width="35" height="35"/>
       </td>
     </tr>
   </table>
