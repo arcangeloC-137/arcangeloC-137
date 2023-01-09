@@ -57,10 +57,10 @@
     <th> &nbsp;📗</th>
     <th><a href="https://github.com/arcangeloC-137/machine_learning_for_iot" aligh="left"> Machine Learning for IoT</a></th>
   </tr>
-  <tr>
+  <!--tr>
     <th> &nbsp;📙</th>
     <th><a href="https://github.com/arcangeloC-137/deep_natural_language_processing" aligh="left"> Deep Natural Language Processing</a></th>
-  </tr>
+  </tr -->
   <tr>
     <th> &nbsp;📘</th>
     <th><a href="https://github.com/arcangeloC-137/distributed_architectures_for_big_data" aligh="left"> Distributed Architectures for Big Data Process and Analytics</a></th>
