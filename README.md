@@ -33,11 +33,11 @@
     <th><a href="https://github.com/arcangeloC-137/Multinews" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
   </tr>
   <tr>
-    <th>🇺🇳 &nbsp;</th>
+    <th> &nbsp;🇺🇳</th>
     <th><a href="https://github.com/PoliTO-ADSP-United-Nations-Project" aligh="left">United Nations - Time-Series Forecasting for Humanitarian Aid</a></th>
   </tr>
   <tr>
-    <th>🌎 &nbsp;</th>
+    <th> &nbsp;🌎</th>
     <th><a href="https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition" aligh="left"> Deep Learning Techniques for Visual Place Recognition</a></th>
   </tr>
   <tr>
