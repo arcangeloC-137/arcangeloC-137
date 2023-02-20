@@ -26,8 +26,12 @@
 - 🏋🏽 Powerlifting
 - 📖 Reading
 
-<h2  align="center">Check Out My best projects:</h2><br>
+<h2  align="center">Most intresting projects:</h2><br>
 <table width="100%" align="center">
+   <tr>
+    <th> &nbsp;📄</th>
+    <th><a href="https://github.com/arcangeloC-137/Multinews" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
+  </tr>
   <tr>
     <th>🇺🇳 &nbsp;</th>
     <th><a href="https://github.com/PoliTO-ADSP-United-Nations-Project" aligh="left">United Nations - Time-Series Forecasting for Humanitarian Aid</a></th>
@@ -43,10 +47,6 @@
   <tr>
     <th> &nbsp;💵</th>
     <th><a href="https://github.com/arcangeloC-137/payment_exchange_platform" aligh="left"> Payment Exchange Platform </a></th>
-  </tr>
-  <tr>
-    <th> &nbsp;🛠</th>
-    <th><a href="https://github.com/arcangeloC-137" aligh="left"> Work in Progress ... </a></th>
   </tr>
 </table>
 
@@ -68,10 +68,6 @@
   <tr>
     <th> &nbsp;📕</th>
     <th><a href="https://github.com/arcangeloC-137/java_programming_techniques" aligh="left"> Java Programming Techniques</a></th>
-  </tr>
-  <tr>
-    <th> &nbsp;🛠</th>
-    <th><a href="https://github.com/arcangeloC-137" aligh="left"> Work in Progress ... </a></th>
   </tr>
 </table>
 
