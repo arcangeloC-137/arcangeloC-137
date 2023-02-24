@@ -73,7 +73,7 @@
 
 <br>
 
-<div align="center"><h2>Table of Skills</h2></div>
+<!--div align="center"><h2>Table of Skills</h2></div>
 <div align="center">
   <table align="center">
     <tr>
