@@ -9,7 +9,7 @@
 
 **Some information about me:**
 
-- 📚 Studying ***[Data Science and Engineering](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:320&p_a_acc=2023&p_header=N&p_lang=EN)*** at [Politecnico di Torino](https://www.polito.it/).
+- 🎓 Graduated in ***[Data Science and Engineering](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:320&p_a_acc=2023&p_header=N&p_lang=EN)*** at [Politecnico di Torino](https://www.polito.it/).
 - 👨🏻‍💻 Data Scientist at ***[PwC](https://www.pwc.com)***.
 - ⚙️ Former Head of Administrative Division for ***[RoboTO Team](https://teamroboto.it)***. 
 - 🎓 ***[Management Engineer for Information Systems](https://didattica.polito.it/guida/2023/it/homepage?cds=5&sdu=38)***.
