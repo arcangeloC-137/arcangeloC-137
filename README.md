@@ -28,6 +28,10 @@
 
 <h2  align="center">Most intresting projects:</h2><br>
 <table width="100%" align="center">
+  <tr>
+    <th> &nbsp;🧠</th>
+    <th><a href="https://github.com/arcangeloC-137/rag_open_source" aligh="left"> Fully Open Source RAG System </a></th>
+  </tr>
    <tr>
     <th> &nbsp;📄</th>
     <th><a href="https://github.com/arcangeloC-137/Multinews" aligh="left"> Multi-document Summarization for News Articles Highlights Extraction </a></th>
