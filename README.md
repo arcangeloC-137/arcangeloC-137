@@ -1,11 +1,11 @@
-<div id="header" align="center">
+<!--div id="header" align="center">
 
   <!-- <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" width="740"/> -->
-  <a href="mailto:arcangelofrigioladseng@gmail.com">
+  <!--a href="mailto:arcangelofrigioladseng@gmail.com">
     <img src="https://github.com/arcangeloC-137/arcangeloC-137/blob/main/imgs/arcangelofrigiolaEng.png">
   </a>
 </div>
-<br>
+<br> -->
 
 **Some information about me:**
 
