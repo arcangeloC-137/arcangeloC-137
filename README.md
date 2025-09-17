@@ -26,7 +26,7 @@
 - 🏋🏽 Powerlifting
 - 📖 Reading
 
-<h2  align="center">Most intresting projects:</h2><br>
+<h2  align="center">Most interesting projects:</h2><br>
 <table width="100%" align="center">
   <tr>
     <th> &nbsp;🧠</th>
